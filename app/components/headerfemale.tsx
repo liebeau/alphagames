@@ -15,7 +15,7 @@ const HeaderFemale = () => {
             display: 'flex',
             justifyContent: 'center',
             alignItems: 'center'
-          }}>微信号：alpha91game001
+          }}>微信号：alpha91game
           </p>
       </h2>
       </div>
