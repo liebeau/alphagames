@@ -62,7 +62,7 @@ const PickUp= () => {
           <p className="text-gray-700 text-lg mb-2">
                  第四种，我最推荐的就是陌生社交搭讪，你去一些远离你生活圈的地方搭讪，即便最后被你玩爆了也没事，反正她又不是你生活圈社交圈里的人，不会对你的社交声望造成影响，你就相当于是拥有了无数次复活的机会！
           </p>
-          <p className="text-red-500 italic text-lg font-bold">
+          <p className="text-red-500 italic text-lg font-bold mb-2">
                  狭义上去陌生社交去搭讪就是去泡妞；从广义上来说，当你掌握这套方法，你是可以运用到你生活上、职业生涯等方方面面，可以去Game女人、Game男人、Game人妖、Game半男半女、Game不男不女等等等等。
           </p>
         </div>
@@ -146,7 +146,7 @@ const PickUp= () => {
           <p className="text-gray-700 text-lg mb-2">
                  也正因为如此，倒逼我研发出一套专门Game处女的方法，从认识初期开始扫描、观察她的行为，约会时不断测试，私密空间的测试，从各方面综合判断，把那些“把自己菊花玩成向日葵”的女人筛选掉。
           </p>
-          <p className="text-red-500 italic text-lg font-bold">
+          <p className="text-red-500 italic text-lg font-bold mb-2">
                  出来Game，打到炮很容易，最重要的还是可持续安全的打到炮（安全第一，别染性病）。
           </p>
         </div>
@@ -164,7 +164,7 @@ const PickUp= () => {
           <p className="text-gray-700 text-lg mb-2">
                  更重要的一点是，根据我的观察，现在酒吧夜店很多气氛组、演员等等，我会教你们如何识别并把她们筛选掉，因为这些人有钱就能睡，她们是来赚钱的，你上去撩她又不消费，她们有可能会叼你，因为你妨碍她们接客做生意，所以去酒吧瞄准这种人对于提升你的社交技能并没有帮助。
           </p>
-          <p className="text-black-888 text-lg font-bold">
+          <p className="text-black-888 text-lg font-bold mb-2">
                  那些真正来酒吧夜店消费的妹子才是我们的目标，即便她是跟其他男人来的，我也会教你如何抢别人的妹子、如何抢组合等等。
           </p>
         </div>
@@ -182,7 +182,7 @@ const PickUp= () => {
           <p className="text-gray-700 text-lg mb-2">
                  讲个笑话：单靠网聊妹子就会爱上你！
           </p>
-          <p className="text-gray-700 text-lg ">
+          <p className="text-gray-700 text-lg mb-2">
                  我在网络上发现很多很反智的教学，但凡有点两性经验、有阶段认知的都该知道，网聊只是两性交往中的一个环节；真正要让妹子爱上你痴迷于你，一定是她和你线下接触互动，真正了解你这个人之后才会发生的。
           </p>
           <p className="text-red-500 italic font-bold text-lg mb-2">
@@ -203,7 +203,7 @@ const PickUp= () => {
           <p className="text-gray-700 text-lg mb-2">
                  无论你和妹子处于什么阶段，只要是网聊断片卡壳不会聊了，想想我教你的这个公式，你很快就知道自己要讲什么了。
           </p>
-          <p className="text-red-500 italic text-lg font-bold">
+          <p className="text-red-500 italic text-lg font-bold mb-2">
                  这可不是PUA1.0那些要你们背惯例套话术这么Low的东西，保证是你们在网络上学不到的原创绝学！
           </p>
         </div>
