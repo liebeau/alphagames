@@ -32,7 +32,7 @@ const RedPill = () => {
           <p className="text-gray-700 text-lg mb-2">
                  更重要的一点是如何打造你正向积极的男子气概，成为Alpha完全体。
           </p>
-          <p className="text-red-500 text-lg mb-2 font-bold italic">
+          <p className="text-red-500 text-lg mb-2 font-bold italic mb-2">
                  压轴部分的是众多失传绝学：筛选好正宫、女人的欲望底层、后宫关系风险管理、如何避免吃原谅绿套餐等等一系列在网络上学不到的商业机密。
           </p>
         </div>
@@ -83,7 +83,7 @@ const RedPill = () => {
           <p className="text-red-500 font-bold italic text-lg mb-2">
                  更重要的一点是你能学会根据女人当下的行为倒推她以前经历过什么、她潜沟通想要图什么等等。
           </p>
-          <p className="text-gray-700 text-lg">
+          <p className="text-gray-700 text-lg mb-2">
                  学得好，还能反过来把女人驯化成一个戴项圈的乖狗狗🐕。
           </p>
           <br/>
@@ -193,7 +193,7 @@ const RedPill = () => {
           src="https://rational.oss-cn-shenzhen.aliyuncs.com/RedPill/c.jpg"
         />
         <br />
-          <p className="text-gray-700 text-lg">
+          <p className="text-gray-700 text-lg mb-2">
                  最后是关于你已经进入关系，框架歪了怎么扭转、怎么重拾框架，告诉你一些女人要归零你的警讯，以及那些女掠食者归零你的SOP，最重要的还是如何防止吃原谅绿套餐。
           </p>
         </div>
