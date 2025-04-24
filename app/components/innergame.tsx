@@ -50,7 +50,7 @@ const InnerGame = () => {
           <p className="text-gray-700 text-lg mb-2">
                  假设你是个有一定价值的七分男，但或许是因为你过往有点什么心灵创伤、被社会驯化制约等等，导致你表现出来的行为只有三四分，学了Inner Game后能够把你拉回到原来的七分，甚至能拉到七点二、七点三，让你变得自信！
           </p>
-          <p className="text-gray-700 text-lg ">
+          <p className="text-gray-700 text-lg mb-2">
                  如果你是个没什么硬价值只知道学把妹招式的三四分废物，你用Inner Game给自己洗脑，强行把自己拉到七八分甚至满分十分，表现出一副高高在上屌屌的样子，你实际上有没有料，妹子和你聊几句基本就知道了，特别是高分妹。
           </p>
           <p className="text-gray-700 text-lg mb-2">
@@ -74,7 +74,7 @@ const InnerGame = () => {
           <p className="text-gray-700 text-lg mb-2">
                  在Inner Game中有些有毒的招式，例如自我揭露和展示脆弱面这类，这些都是Beta Game，用这些东西会削弱你的吸引力，很容易让妹子觉得你是个博同情求可怜的废物让人很下头。
           </p>
-          <p className="text-gray-700 text-lg ">
+          <p className="text-gray-700 text-lg mb-2">
                  但是经过我改编升级之后，我可以让这个Beta Game瞬间变成Alpha Game，在和妹子聊天时穿插着用，会大大的增强你的吸引力，更好的稳固你的Alpha框架！
           </p>
         </div>
@@ -122,7 +122,7 @@ const InnerGame = () => {
           <p className="text-gray-700 text-lg mb-2">
                  所以Inner Game是必修课但并不能作为你的主要择偶策略，它只适合给你打打基础，让你这个男人发挥你本该有的实力，甚至稍微有点点加成。
           </p>
-          <p className="text-gray-700 text-lg ">
+          <p className="text-gray-700 text-lg mb-2">
                  要提高把妹成功率、拥有一段良好的关系，有Inner Game的同时还须要有红药丸和Outer Game。
           </p>
         </div>
