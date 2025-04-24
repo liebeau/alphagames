@@ -31,7 +31,7 @@ const FemaleBasic = () => {
           <p className="text-gray-700 text-lg mb-2">
                  随着国内政治经济环境高度不稳定，富人有的移民、有的破产、有的被抓，捞女的上游行业是富人，当上游整个行业开始萎缩的时候，相关的下游行业也会一起萎缩。
           </p>
-          <p className="text-black-888 text-lg font-bold">
+          <p className="text-black-888 text-lg font-bold mb-2">
                  捞女是一个带有寄生性质的群体，当你的宿主本身都面临萎缩和死亡的时候，作为寄生物的捞女也只能和宿主一起死亡，不可能反其道而行。
           </p>
           <p className="text-gray-700 text-lg mb-2">
@@ -55,10 +55,10 @@ const FemaleBasic = () => {
           <p className="text-gray-700 text-lg mb-2">
                  即便你做了点什么违反道德、公序良俗的事（出轨、偷吃、多线并行、当三等等），只要不触犯法律，那都不是事，就因为你是女人，所以你做的一切都是对的。在大部分男人心里默认就是以女人为尊的，既然他们自己都这样认为了，那你们就顺着这个游戏规则去要你想要的。
           </p>
-          <p className="text-gray-700 text-lg">
+          <p className="text-gray-700 text-lg mb-2">
                  正因为这时代太多很软、很Beta的男人们，所以如果你想走捞女路线且用对了方法想要捞各种好处是很容易的，即便你吃干抹净归零他，他们最后还会自我合理化，觉得你是在为他好。
           </p>
-          <p className="text-red-500 font-bold text-lg">
+          <p className="text-red-500 font-bold text-lg mb-2">
                  坏处就在于：当那些想要正经恋爱结婚或是打算洗净铅华上岸的女人们找对象时，很难找到一个能够激起你们真实欲望、让你们湿透、靠得住的男人。所以导致女人在两性市场上很难找到一个能满足择偶天性Hypergamy的男人，或者是你看上的男人他看不上你、你留不住他等等。（本套课程专门解决这一系列困境）
           </p>
         </div>
@@ -82,7 +82,7 @@ const FemaleBasic = () => {
       <div className="flex flex-col items-center justify-center">
         <div className="max-w-2xl w-full bg-white shadow-md rounded-lg p-6">
           <h1 className="text-3xl font-bold mb-4">筛选真货</h1>
-          <p className="text-black-888 text-lg mb-2 font-bold italic">
+          <p className="text-black-888 text-lg mb-2 font-bold italic mb-2">
                  根据女人的生物学特性Hypergamy和中国国情，女人选男人的上策：掌握权力的人，中策：富人，下策：潜力股，下下策：时间到了就选个Beta进入婚姻。
           </p>
           <p className="text-gray-700 text-lg mb-2">
@@ -91,7 +91,7 @@ const FemaleBasic = () => {
           <p className="text-red-500 font-bold text-lg mb-2">
                  所以在本套课程第二部分会教你识别中国的权力天梯、官僚体系、什么是实权部门、什么是清水衙门？更重要的是如何接近他们？如何跟他们产生联结？还有怎么留住他们？（观看官场外围这一章节）
           </p>
-          <p className="text-black-700 text-lg font-bold italic">
+          <p className="text-black-700 text-lg font-bold italic mb-2">
                  PS：我有写一篇教女人避免被假货诈骗的免费资料，记得找我领取！
           </p>
         </div>
@@ -109,7 +109,7 @@ const FemaleBasic = () => {
           <p className="text-gray-700 text-lg mb-2">
                  而男人是以目的为导向的生物，我看到这段话下意识想到的是：你收了我的钱💴，你产品所宣传的功效没有帮我达到、没帮我傍到大款捞到钱，在这里讲废话、讲大道理，那你这不就是诈骗？信不信我找人把你做了？
           </p>
-          <p className="text-red-500 text-lg font-bold">
+          <p className="text-red-500 text-lg font-bold mb-2">
                  王牌章节：低成本认识大佬/肥羊的方法。在这节课我会教你一套SOP，获得大量的大佬/肥羊资源，教你们如何让他们主动来找你，更重要的是教你们如何多次有效深度触达并且转化他们！
           </p>
           <p className="text-gray-700 text-lg mb-2">
@@ -143,10 +143,10 @@ const FemaleBasic = () => {
           src="https://rational.oss-cn-shenzhen.aliyuncs.com/Female/SMV.jpg"
         />
         <br />
-          <p className="text-gray-700 text-lg">
+          <p className="text-gray-700 text-lg mb-2">
                  女人的出场起点高，但是时间短，需要在她青春年华逝去前找到值得托付的男人。聪明的女人会在二十八九岁的时候上岸Cash Out，先解决自己眼前的长期Beta供养需求再说，其次都是其次。（当然，最好的还是要选到个能满足你物质、精神和生理需求的男人）
           </p>
-          <p className="text-red-500 font-bold text-lg">
+          <p className="text-red-500 font-bold text-lg mb-2">
                  我能帮你们的就是用点手段帮你搞到一个比你高分的男人！
           </p>
         </div>
@@ -164,14 +164,14 @@ const FemaleBasic = () => {
           <p className="text-gray-700 text-lg mb-2 italic">
                  答：留不住男人，一致性断裂，女AFC，和男人做完天地阴阳交欢大乐赋后，然后就没然后了！
           </p>
-          <p className="text-gray-700 text-lg">
+          <p className="text-gray-700 text-lg mb-2">
                  在男性社群里一个很有具代表性的例子是：PUA1.0技术流的祖师爷迷男集万千技术于一身、斩女无数，在追到他的真命天女Katya后，他所有的PUA技术通通失灵，最后还吸毒把自己搞进了精神病院。
           </p>
-          <p className="text-red-500 font-bold text-lg">
+          <p className="text-red-500 font-bold text-lg mb-2">
                  在课程的中后部分我会教你识别男人的PUA招式、如何避免被情感操控，以及遇到了该如何破解，甚至反过来给他上一课！
           </p>
           <br/>
-          <p className="text-black-500 font-bold text-lg italic">
+          <p className="text-black-500 font-bold text-lg italic mb-2">
                  The End Is Not The End！（课程持续更新中&往后会有私密直播课。。。。。。）
           </p>
         </div>
@@ -226,7 +226,7 @@ const FemaleBasic = () => {
                  这一系列问题以及更多的疑难杂症，都将会在这套课程里得到答案。
           </p>
           <p className="text-black-888 text-lg mb-2 font-bold italic bg-yellow-300 p-2 inline">
-          限时优惠仅需￥398，赶紧找我下单（WeChat ID：alpha91game001），早日兑现你的情感自由！
+          限时优惠仅需￥398，赶紧找我下单（WeChat ID：alpha91game），早日兑现你的情感自由！
           </p>
         </div>
       </div>
