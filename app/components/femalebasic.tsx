@@ -154,6 +154,30 @@ const FemaleBasic = () => {
       <br />
       <div className="flex flex-col items-center justify-center">
         <div className="max-w-2xl w-full bg-white shadow-md rounded-lg p-6">
+          <h1 className="text-3xl font-bold mb-4">神秘赠礼</h1>
+          <p className="text-black-888 text-lg mb-2 font-bold italic">
+                 学完后你也具备了出马、乩童的能力！
+          </p>
+          <p className="text-gray-700 text-lg mb-2">
+                 这一节内容是我临时加的，灵感来自于很多女生在网络上老是问一些什么星座运势、塔罗、八字、什么我男朋友有没有出轨、前任有新对象没有、我的男友会不会娶我、我能不能嫁入豪门。。。。。。
+          </p>
+          <p className="text-gray-700 text-lg mb-2">
+                 正好你们的老师我在香港拜师学奇门遁甲的时候就结识了一个同学，我教他紫占他教我一门独特的占卜方法，彼此互换术数，他这门术数普通人很容易学，看完这一节课你们就能马上上手，往后也没必要再在网上卜问你自己未知的问题，因为你可以自占，而且非常准。
+          </p>
+          <p className="text-gray-700 text-lg mb-2">
+                 教我这门术数的那个师兄不需要工作，他靠这门术数占卜预测股市的升降，每年年初时只赚20万作为这一年的生活费，也不多拿；后来我研究了一下他这门术数，溯源到最开始，它的发明者就是通过占卜去炒股、炒期货成为了他所在的那个市的首富！！！
+          </p>
+          <p className="text-gray-700 text-lg mb-2">
+                 说到这相信有人会问：既然你也会，那你干嘛不去炒股当首富？还用在这里讲课？
+          </p>
+          <p className="text-gray-700 text-lg mb-2">
+                 仙道修行之人要过欲界、色戒、无色界三界魔考，不可以执迷于任何的固有形象！钱这种东西在我看来像这位师兄那样能维持生活够花就行。而且你们如果拿玄学术数去赚钱、赌钱，钱赚到了一定要去布施，只进不出你会遭报应的，因为你是在卡这个世界的Bug拿一些本就不属于你的财！
+          </p>
+        </div>
+      </div>
+      <br />
+      <div className="flex flex-col items-center justify-center">
+        <div className="max-w-2xl w-full bg-white shadow-md rounded-lg p-6">
           <h1 className="text-3xl font-bold mb-4">疑难杂症</h1>
           <p className="text-gray-700 text-lg mb-2">
                  和市面上很多教学不同的是，我在教Game（社交技能）的同时我还会告诉你技术的底层逻辑，你讲到话、用的技术为什么会起效果。
